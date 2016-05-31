@@ -1,1 +1,0 @@
-    checking manipulation process
